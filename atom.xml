@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://tesiroo.github.io/"/>
-  <updated>2020-07-10T12:01:42.000Z</updated>
+  <updated>2020-07-10T12:01:00.000Z</updated>
   <id>https://tesiroo.github.io/</id>
   
   <author>
@@ -17,11 +17,11 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>啦啦啦</title>
+    <title>评论test</title>
     <link href="https://tesiroo.github.io/2020/07/10/%E5%95%A6%E5%95%A6%E5%95%A6/"/>
     <id>https://tesiroo.github.io/2020/07/10/%E5%95%A6%E5%95%A6%E5%95%A6/</id>
-    <published>2020-07-10T12:01:42.000Z</published>
-    <updated>2020-07-10T12:01:42.000Z</updated>
+    <published>2020-07-10T12:01:00.000Z</published>
+    <updated>2020-07-10T12:01:00.000Z</updated>
     
     <summary type="html">
     
@@ -38,11 +38,13 @@
     </summary>
     
     
+      <category term="生活" scheme="https://Tesiroo.github.io/categories/%E7%94%9F%E6%B4%BB/"/>
+    
     
   </entry>
   
   <entry>
-    <title>Rainny Day</title>
+    <title>Rainy Day</title>
     <link href="https://tesiroo.github.io/2020/07/10/Rainny-Day/"/>
     <id>https://tesiroo.github.io/2020/07/10/Rainny-Day/</id>
     <published>2020-07-10T09:41:00.000Z</published>
@@ -50,7 +52,7 @@
     
     <summary type="html">
     
-      &lt;font color=#0099ff size=6 face=&quot;楷体&quot;&gt;
+      &lt;font color=#0099ff face=&quot;楷体&quot;&gt;
   Nothing for nothing!
     
     </summary>

@@ -1,16 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>啦啦啦</title>
+    <title>评论test</title>
     <url>/2020/07/10/%E5%95%A6%E5%95%A6%E5%95%A6/</url>
     <content><![CDATA[<font color=#0000ff size=8 face="楷体">
   <center>下班了没？</center>
   </font>]]></content>
+      <categories>
+        <category>生活</category>
+      </categories>
   </entry>
   <entry>
-    <title>Rainny Day</title>
+    <title>Rainy Day</title>
     <url>/2020/07/10/Rainny-Day/</url>
-    <content><![CDATA[<font color=#0099ff size=6 face="楷体">
+    <content><![CDATA[<font color=#0099ff face="楷体">
   Nothing for nothing! 
 
 <a id="more"></a> 
@@ -18,8 +21,7 @@
 <p> 今天终于下雨了，在这炎炎夏日，还是凉爽了许多。今晚能随个好觉了.</p>
 </font> 
 ---
-<https://www.baidu.com>
-]]></content>
+<https://www.baidu.com>]]></content>
   </entry>
   <entry>
     <title>newBlog</title>
