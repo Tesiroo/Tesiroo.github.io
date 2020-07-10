@@ -73,10 +73,22 @@
     </summary>
     
     
-      <category term="norma" scheme="https://Tesiroo.github.io/categories/norma/"/>
+      <category term="学习" scheme="https://Tesiroo.github.io/categories/%E5%AD%A6%E4%B9%A0/"/>
+    
+      <category term="生活" scheme="https://Tesiroo.github.io/categories/%E5%AD%A6%E4%B9%A0/%E7%94%9F%E6%B4%BB/"/>
+    
+      <category term="娱乐" scheme="https://Tesiroo.github.io/categories/%E5%AD%A6%E4%B9%A0/%E7%94%9F%E6%B4%BB/%E5%A8%B1%E4%B9%90/"/>
     
     
-      <category term="ask" scheme="https://Tesiroo.github.io/tags/ask/"/>
+      <category term="日常生活" scheme="https://Tesiroo.github.io/tags/%E6%97%A5%E5%B8%B8%E7%94%9F%E6%B4%BB/"/>
+    
+      <category term="人文景观" scheme="https://Tesiroo.github.io/tags/%E4%BA%BA%E6%96%87%E6%99%AF%E8%A7%82/"/>
+    
+      <category term="轻松一下" scheme="https://Tesiroo.github.io/tags/%E8%BD%BB%E6%9D%BE%E4%B8%80%E4%B8%8B/"/>
+    
+      <category term="学习资料" scheme="https://Tesiroo.github.io/tags/%E5%AD%A6%E4%B9%A0%E8%B5%84%E6%96%99/"/>
+    
+      <category term="影音娱乐" scheme="https://Tesiroo.github.io/tags/%E5%BD%B1%E9%9F%B3%E5%A8%B1%E4%B9%90/"/>
     
   </entry>
   
