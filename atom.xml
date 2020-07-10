@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>墨染</title>
+  
+  <subtitle>记录每个有意义的瞬间，感悟生活，感动自己！</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="https://tesiroo.github.io/"/>
+  <updated>2020-07-10T09:41:00.000Z</updated>
+  <id>https://tesiroo.github.io/</id>
+  
+  <author>
+    <name>Li Wang Qiang</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Rainny Day</title>
+    <link href="https://tesiroo.github.io/2020/07/10/Rainny-Day/"/>
+    <id>https://tesiroo.github.io/2020/07/10/Rainny-Day/</id>
+    <published>2020-07-10T09:41:00.000Z</published>
+    <updated>2020-07-10T09:41:00.000Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;2020年7月10日17:41:32&lt;br&gt;
+        
+      
+    
+    </summary>
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>newBlog</title>
+    <link href="https://tesiroo.github.io/2020/07/10/newBlog/"/>
+    <id>https://tesiroo.github.io/2020/07/10/newBlog/</id>
+    <published>2020-07-10T05:45:00.000Z</published>
+    <updated>2020-07-10T05:45:00.000Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;hello！ long time no see,how are you？&lt;/p&gt;
+&lt;p&gt;第一篇博客
+        
+      
+    
+    </summary>
+    
+    
+      <category term="norma" scheme="https://Tesiroo.github.io/categories/norma/"/>
+    
+    
+      <category term="ask" scheme="https://Tesiroo.github.io/tags/ask/"/>
+    
+  </entry>
+  
+</feed>
