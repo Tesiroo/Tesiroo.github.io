@@ -50,37 +50,4 @@
     
   </entry>
   
-  <entry>
-    <title>newBlog</title>
-    <link href="https://tesiroo.github.io/2020/07/10/newBlog/"/>
-    <id>https://tesiroo.github.io/2020/07/10/newBlog/</id>
-    <published>2020-07-10T05:45:00.000Z</published>
-    <updated>2020-07-10T05:45:00.000Z</updated>
-    
-    <summary type="html">
-    
-      &lt;p&gt;hello！ long time no see,how are you？&lt;/p&gt;
-    
-    </summary>
-    
-    
-      <category term="学习" scheme="https://Tesiroo.github.io/categories/%E5%AD%A6%E4%B9%A0/"/>
-    
-      <category term="生活" scheme="https://Tesiroo.github.io/categories/%E5%AD%A6%E4%B9%A0/%E7%94%9F%E6%B4%BB/"/>
-    
-      <category term="娱乐" scheme="https://Tesiroo.github.io/categories/%E5%AD%A6%E4%B9%A0/%E7%94%9F%E6%B4%BB/%E5%A8%B1%E4%B9%90/"/>
-    
-    
-      <category term="日常生活" scheme="https://Tesiroo.github.io/tags/%E6%97%A5%E5%B8%B8%E7%94%9F%E6%B4%BB/"/>
-    
-      <category term="人文景观" scheme="https://Tesiroo.github.io/tags/%E4%BA%BA%E6%96%87%E6%99%AF%E8%A7%82/"/>
-    
-      <category term="轻松一下" scheme="https://Tesiroo.github.io/tags/%E8%BD%BB%E6%9D%BE%E4%B8%80%E4%B8%8B/"/>
-    
-      <category term="学习资料" scheme="https://Tesiroo.github.io/tags/%E5%AD%A6%E4%B9%A0%E8%B5%84%E6%96%99/"/>
-    
-      <category term="影音娱乐" scheme="https://Tesiroo.github.io/tags/%E5%BD%B1%E9%9F%B3%E5%A8%B1%E4%B9%90/"/>
-    
-  </entry>
-  
 </feed>
