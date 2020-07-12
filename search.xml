@@ -1,6 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title>welcome to my blog</title>
+    <url>/2020/07/12/welcome-to-my-blog/</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p><img src="https://d1csarkz8obe9u.cloudfront.net/posterpreviews/blue-welcome-church-video-poster-template-df977a81710d4201a1a2a6546958ea54_screen.jpg?ts=1567088234" alt="welcome"></p>
+<a id="more"></a> 
+<font color=#0000ff size=4 face="楷体">
+     <center>
+        欢迎来到我的博客，搭建基本完成了，以后不定时更新更新内容。
+    </center>
+</font>
+---
+<figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">while(alive)&#123;</span><br><span class="line">	eat();</span><br><span class="line">    drink();</span><br><span class="line">    play();</span><br><span class="line">    code();</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>
+]]></content>
+  </entry>
+  <entry>
     <title>音乐test</title>
     <url>/2020/07/11/%E9%9F%B3%E4%B9%90test/</url>
     <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>你倒是出来啊啊啊啊啊啊啊啊啊啊</p>
@@ -13,29 +27,6 @@
       <tags>
         <tag>音乐</tag>
       </tags>
-  </entry>
-  <entry>
-    <title>评论test</title>
-    <url>/2020/07/10/%E5%95%A6%E5%95%A6%E5%95%A6/</url>
-    <content><![CDATA[<font color=#0000ff size=8 face="楷体">
-  <center>下班了没？</center>
-  </font>]]></content>
-      <categories>
-        <category>生活</category>
-      </categories>
-  </entry>
-  <entry>
-    <title>Rainy Day</title>
-    <url>/2020/07/10/Rainny-Day/</url>
-    <content><![CDATA[<font color=#0099ff face="楷体">
-  Nothing for nothing! 
-
-<a id="more"></a> 
-
-<p> 今天终于下雨了，在这炎炎夏日，还是凉爽了许多。今晚能随个好觉了.</p>
-</font> 
----
-<https://www.baidu.com>]]></content>
   </entry>
   <entry>
     <title>newBlog</title>
