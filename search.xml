@@ -11,8 +11,7 @@
     </center>
 </font>
 ---
-<figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">while(alive)&#123;</span><br><span class="line">	eat();</span><br><span class="line">    drink();</span><br><span class="line">    play();</span><br><span class="line">    code();</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>
-]]></content>
+<figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">  while(alive)&#123;</span><br><span class="line">play();</span><br><span class="line">code();</span><br><span class="line">  &#125;</span><br></pre></td></tr></table></figure>]]></content>
   </entry>
   <entry>
     <title>音乐test</title>
