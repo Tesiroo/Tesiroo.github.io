@@ -1,6 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title>welcome to my blog</title>
+    <url>/2020/07/12/welcome-to-my-blog/</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p><img src="https://d1csarkz8obe9u.cloudfront.net/posterpreviews/blue-welcome-church-video-poster-template-df977a81710d4201a1a2a6546958ea54_screen.jpg?ts=1567088234" alt="welcome"></p>
+<a id="more"></a> 
+<font color=#0000ff size=4 face="楷体">
+     <center>
+        欢迎来到我的博客，搭建基本完成了，以后不定时更新更新内容。
+    </center>
+</font>
+---
+<figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">  while(alive)&#123;</span><br><span class="line">play();</span><br><span class="line">code();</span><br><span class="line">  &#125;</span><br></pre></td></tr></table></figure>]]></content>
+  </entry>
+  <entry>
     <title>My Hometone</title>
     <url>/2020/07/12/My-Hometone/</url>
     <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p><img src="http://5b0988e595225.cdn.sohucs.com/images/20200509/3f001b65cf7e492eaf264756f309a38d.png" alt="封面"></p>
@@ -29,18 +42,5 @@
 <hr>
 <p> <strong><em>风景如画，人杰地灵，愿我大汉山越来越好!</em></strong></p>
 ]]></content>
-  </entry>
-  <entry>
-    <title>welcome to my blog</title>
-    <url>/2020/07/12/welcome-to-my-blog/</url>
-    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p><img src="https://d1csarkz8obe9u.cloudfront.net/posterpreviews/blue-welcome-church-video-poster-template-df977a81710d4201a1a2a6546958ea54_screen.jpg?ts=1567088234" alt="welcome"></p>
-<a id="more"></a> 
-<font color=#0000ff size=4 face="楷体">
-     <center>
-        欢迎来到我的博客，搭建基本完成了，以后不定时更新更新内容。
-    </center>
-</font>
----
-<figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">  while(alive)&#123;</span><br><span class="line">play();</span><br><span class="line">code();</span><br><span class="line">  &#125;</span><br></pre></td></tr></table></figure>]]></content>
   </entry>
 </search>
