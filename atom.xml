@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://tesiroo.github.io/"/>
-  <updated>2020-07-12T05:06:11.000Z</updated>
+  <updated>2021-07-04T13:47:00.000Z</updated>
   <id>https://tesiroo.github.io/</id>
   
   <author>
@@ -17,15 +17,21 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>My Hometone</title>
-    <link href="https://tesiroo.github.io/2020/07/12/My-Hometone/"/>
-    <id>https://tesiroo.github.io/2020/07/12/My-Hometone/</id>
-    <published>2020-07-12T05:06:11.000Z</published>
-    <updated>2020-07-12T05:06:11.000Z</updated>
+    <title>test</title>
+    <link href="https://tesiroo.github.io/2021/07/04/test/"/>
+    <id>https://tesiroo.github.io/2021/07/04/test/</id>
+    <published>2021-07-04T13:47:00.000Z</published>
+    <updated>2021-07-04T13:47:00.000Z</updated>
     
     <summary type="html">
     
-      &lt;p&gt;&lt;img src=&quot;http://5b0988e595225.cdn.sohucs.com/images/20200509/3f001b65cf7e492eaf264756f309a38d.png&quot; alt=&quot;封面&quot;&gt;&lt;/p&gt;
+      
+      
+        
+        
+          &lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;\assets\css\APlayer.min.css&quot;&gt;&lt;script src=&quot;\assets\js\APlayer.min.js&quot;
+        
+      
     
     </summary>
     
